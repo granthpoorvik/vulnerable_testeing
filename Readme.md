@@ -36,9 +36,4 @@ The script prints vulnerability status, visualizes user vulnerability using a ba
 
 To implement the user blocking mechanism, you need to replace the comment `# Implement your blocking logic here, e.g., block_user(user)` with the actual code to block the user based on their location. The blocking mechanism may vary depending on the specifics of your application or system.
 
-### 1. Log File Format
 
-The log file should have entries in the following format:
-
-```plaintext
-User: <username> Action: <action> Location: <location>
