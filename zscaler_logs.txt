@@ -1,0 +1,135 @@
+Timestamp: 2023-01-01 12:00:00 | User: user1 | Action: Access Granted | Bandwidth: 500
+Timestamp: 2023-01-01 12:05:00 | User: user2 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:10:00 | User: user1 | Action: Access Granted | Bandwidth: 300
+Timestamp: 2023-01-01 12:15:00 | User: user3 | Action: Access Denied | Bandwidth: 0
+Timestamp: 2023-01-01 12:20:00 | User: user2 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:25:00 | User: user1 | Action: Access Granted | Bandwidth: 700
+Timestamp: 2023-12-20 19:14:07 | User: user1 | Action: Access Denied | Bandwidth: 652 | Domain: trusted-site.com
+Timestamp: 2023-12-20 19:14:07 | User: user3 | Action: Blocked Site | Bandwidth: 330 | Domain: example.com
+Timestamp: 2023-12-20 19:14:07 | User: user1 | Action: Access Granted | Bandwidth: 940 | Domain: example.com
+Timestamp: 2023-12-20 19:14:07 | User: user2 | Action: Access Denied | Bandwidth: 189 | Domain: unapproved-site.com
+Timestamp: 2023-12-20 19:14:07 | User: user2 | Action: Blocked Site | Bandwidth: 819 | Domain: example.com
+Timestamp: 2023-12-20 19:14:07 | User: user1 | Action: Access Granted | Bandwidth: 999 | Domain: trusted-site.com
+Timestamp: 2023-12-20 19:14:07 | User: user2 | Action: Blocked Site | Bandwidth: 786 | Domain: example.com
+Timestamp: 2023-12-20 19:14:07 | User: user2 | Action: Access Denied | Bandwidth: 381 | Domain: trusted-site.com
+Timestamp: 2023-12-20 19:14:07 | User: user1 | Action: Access Granted | Bandwidth: 481 | Domain: unapproved-site.com
+Timestamp: 2023-12-20 19:14:07 | User: user2 | Action: Blocked Site | Bandwidth: 481 | Domain: trusted-site.com
+Timestamp: 2023-01-01 12:00:00 | User: user1 | Action: Access Granted | Bandwidth: 500
+Timestamp: 2023-01-01 12:05:00 | User: user2 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:10:00 | User: user1 | Action: Access Granted | Bandwidth: 300
+Timestamp: 2023-01-01 12:15:00 | User: user3 | Action: Access Denied | Bandwidth: 0
+Timestamp: 2023-01-01 12:20:00 | User: user2 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:25:00 | User: user1 | Action: Access Granted | Bandwidth: 700
+Timestamp: 2023-01-01 12:00:00 | User: user1 | Action: Access Granted | Bandwidth: 500
+Timestamp: 2023-01-01 12:05:00 | User: user2 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:10:00 | User: user1 | Action: Access Granted | Bandwidth: 300
+Timestamp: 2023-01-01 12:15:00 | User: user3 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:20:00 | User: user2 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:25:00 | User: user1 | Action: Access Granted | Bandwidth: 700
+Timestamp: 2023-01-01 12:00:00 | User: user1 | Action: Access Granted | Bandwidth: 500
+Timestamp: 2023-01-01 12:05:00 | User: user2 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:10:00 | User: user1 | Action: Access Granted | Bandwidth: 300
+Timestamp: 2023-01-01 12:15:00 | User: user3 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:20:00 | User: user2 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:25:00 | User: user1 | Action: Access Granted | Bandwidth: 700
+Timestamp: 2023-01-01 12:30:00 | User: user4 | Action: Access Granted | Bandwidth: 800
+Timestamp: 2023-01-01 12:35:00 | User: user5 | Action: Access Denied | Bandwidth: 0
+Timestamp: 2023-01-01 12:40:00 | User: user3 | Action: Access Denied | Bandwidth: 0
+Timestamp: 2023-01-01 12:45:00 | User: user4 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:50:00 | User: user5 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:55:00 | User: user6 | Action: Access Granted | Bandwidth: 600
+Timestamp: 2023-01-01 12:00:00 | User: user1 | Action: Access Granted | Bandwidth: 500
+Timestamp: 2023-01-01 12:05:00 | User: user2 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:10:00 | User: user1 | Action: Access Granted | Bandwidth: 300
+Timestamp: 2023-01-01 12:15:00 | User: user3 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:20:00 | User: user2 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:25:00 | User: user1 | Action: Access Granted | Bandwidth: 700
+Timestamp: 2023-01-01 12:30:00 | User: user4 | Action: Access Granted | Bandwidth: 800
+Timestamp: 2023-01-01 12:35:00 | User: user5 | Action: Access Denied | Bandwidth: 0
+Timestamp: 2023-01-01 12:40:00 | User: user3 | Action: Access Denied | Bandwidth: 0
+Timestamp: 2023-01-01 12:45:00 | User: user4 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:50:00 | User: user5 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 12:55:00 | User: user6 | Action: Access Granted | Bandwidth: 600
+Timestamp: 2023-01-01 13:00:00 | User: user7 | Action: Blocked Site | Bandwidth: 0
+Timestamp: 2023-01-01 13:05:00 | User: user6 | Action: Access Denied | Bandwidth: 0
+Timestamp: 2023-01-01 13:10:00 | User: user8 | Action: Access Granted | Bandwidth: 400
+
+
+
+
+Timestamp: 2023-12-20 21:04:51 | User: user5 | Action: Blocked Site | Bandwidth: 482
+Timestamp: 2023-12-20 21:04:52 | User: user1 | Action: Access Denied | Bandwidth: 428
+Timestamp: 2023-12-20 21:04:53 | User: user4 | Action: Access Granted | Bandwidth: 212
+Timestamp: 2023-12-20 21:04:54 | User: user3 | Action: Blocked Site | Bandwidth: 416
+Timestamp: 2023-12-20 21:04:55 | User: user2 | Action: Blocked Site | Bandwidth: 583
+Timestamp: 2023-12-20 21:04:56 | User: user4 | Action: Blocked Site | Bandwidth: 204
+Timestamp: 2023-12-20 21:04:57 | User: user4 | Action: Access Denied | Bandwidth: 595
+Timestamp: 2023-12-20 21:04:58 | User: user5 | Action: Blocked Site | Bandwidth: 496
+Timestamp: 2023-12-20 21:04:59 | User: user5 | Action: Access Denied | Bandwidth: 431
+Timestamp: 2023-12-20 21:05:00 | User: user2 | Action: Access Denied | Bandwidth: 606
+Timestamp: 2023-12-20 21:05:01 | User: user3 | Action: Access Granted | Bandwidth: 107
+Timestamp: 2023-12-20 21:05:02 | User: user5 | Action: Access Granted | Bandwidth: 455
+Timestamp: 2023-12-20 21:05:04 | User: user3 | Action: Access Granted | Bandwidth: 555
+Timestamp: 2023-12-20 21:05:05 | User: user5 | Action: Access Denied | Bandwidth: 777
+Timestamp: 2023-12-20 21:05:06 | User: user4 | Action: Access Granted | Bandwidth: 476
+Timestamp: 2023-12-20 21:05:07 | User: user3 | Action: Access Granted | Bandwidth: 942
+Timestamp: 2023-12-20 21:05:08 | User: user4 | Action: Blocked Site | Bandwidth: 623
+Timestamp: 2023-12-20 21:05:09 | User: user2 | Action: Access Denied | Bandwidth: 906
+Timestamp: 2023-12-20 21:05:10 | User: user2 | Action: Blocked Site | Bandwidth: 641
+Timestamp: 2023-12-20 21:05:11 | User: user2 | Action: Access Granted | Bandwidth: 986
+Timestamp: 2023-12-20 21:05:12 | User: user5 | Action: Access Granted | Bandwidth: 345
+Timestamp: 2023-12-20 21:05:13 | User: user2 | Action: Access Granted | Bandwidth: 215
+Timestamp: 2023-12-20 21:05:14 | User: user3 | Action: Blocked Site | Bandwidth: 324
+Timestamp: 2023-12-20 21:05:15 | User: user4 | Action: Access Denied | Bandwidth: 288
+Timestamp: 2023-12-20 21:05:16 | User: user2 | Action: Access Denied | Bandwidth: 905
+Timestamp: 2023-12-20 21:05:17 | User: user3 | Action: Blocked Site | Bandwidth: 573
+Timestamp: 2023-12-20 21:05:18 | User: user4 | Action: Access Granted | Bandwidth: 532
+Timestamp: 2023-12-20 21:05:19 | User: user3 | Action: Access Granted | Bandwidth: 149
+Timestamp: 2023-12-20 21:05:20 | User: user3 | Action: Access Denied | Bandwidth: 674
+Timestamp: 2023-12-20 21:05:21 | User: user2 | Action: Access Denied | Bandwidth: 273
+Timestamp: 2023-12-20 21:05:22 | User: user4 | Action: Access Denied | Bandwidth: 968
+Timestamp: 2023-12-20 21:05:23 | User: user4 | Action: Access Denied | Bandwidth: 457
+Timestamp: 2023-12-20 21:05:24 | User: user5 | Action: Access Denied | Bandwidth: 464
+Timestamp: 2023-12-20 21:05:25 | User: user4 | Action: Access Granted | Bandwidth: 793
+Timestamp: 2023-12-20 21:05:26 | User: user4 | Action: Blocked Site | Bandwidth: 894
+Timestamp: 2023-12-20 21:05:27 | User: user4 | Action: Blocked Site | Bandwidth: 194
+Timestamp: 2023-12-20 21:05:28 | User: user5 | Action: Access Granted | Bandwidth: 146
+Timestamp: 2023-12-20 21:05:29 | User: user1 | Action: Blocked Site | Bandwidth: 352
+Timestamp: 2023-12-20 21:05:30 | User: user2 | Action: Access Granted | Bandwidth: 874
+Timestamp: 2023-12-20 21:05:31 | User: user4 | Action: Access Denied | Bandwidth: 528
+Timestamp: 2023-12-20 21:05:32 | User: user3 | Action: Blocked Site | Bandwidth: 527
+Timestamp: 2023-12-20 21:05:33 | User: user2 | Action: Access Denied | Bandwidth: 668
+Timestamp: 2023-12-20 21:05:34 | User: user4 | Action: Blocked Site | Bandwidth: 474
+Timestamp: 2023-12-20 21:05:35 | User: user3 | Action: Blocked Site | Bandwidth: 117
+Timestamp: 2023-12-20 21:05:36 | User: user4 | Action: Access Denied | Bandwidth: 562
+Timestamp: 2023-12-20 21:05:37 | User: user2 | Action: Blocked Site | Bandwidth: 905
+Timestamp: 2023-12-20 21:05:38 | User: user1 | Action: Blocked Site | Bandwidth: 377
+Timestamp: 2023-12-20 21:05:39 | User: user3 | Action: Access Granted | Bandwidth: 677
+Timestamp: 2023-12-20 21:05:40 | User: user4 | Action: Access Granted | Bandwidth: 137
+Timestamp: 2023-12-20 21:05:41 | User: user4 | Action: Access Denied | Bandwidth: 755
+Timestamp: 2023-12-20 21:05:42 | User: user3 | Action: Access Granted | Bandwidth: 372
+Timestamp: 2023-12-20 21:05:43 | User: user2 | Action: Access Denied | Bandwidth: 357
+Timestamp: 2023-12-20 21:05:44 | User: user3 | Action: Access Granted | Bandwidth: 718
+Timestamp: 2023-12-20 21:05:45 | User: user3 | Action: Access Denied | Bandwidth: 305
+Timestamp: 2023-12-20 21:09:01 | User: user4 | Action: Access Granted | Bandwidth: 870
+Timestamp: 2023-12-20 21:09:02 | User: user2 | Action: Blocked Site | Bandwidth: 902
+Timestamp: 2023-12-20 21:09:03 | User: user3 | Action: Access Granted | Bandwidth: 120
+Timestamp: 2023-12-20 21:09:04 | User: user5 | Action: Access Denied | Bandwidth: 354
+Timestamp: 2023-12-20 21:09:05 | User: user3 | Action: Access Denied | Bandwidth: 986
+Timestamp: 2023-12-20 21:09:06 | User: user3 | Action: Blocked Site | Bandwidth: 928
+Timestamp: 2023-12-20 21:09:07 | User: user2 | Action: Access Denied | Bandwidth: 516
+Timestamp: 2023-12-20 21:09:08 | User: user1 | Action: Access Denied | Bandwidth: 907
+Timestamp: 2023-12-20 21:09:09 | User: user2 | Action: Blocked Site | Bandwidth: 384
+Timestamp: 2023-12-20 21:09:10 | User: user4 | Action: Access Granted | Bandwidth: 617
+Timestamp: 2023-12-20 21:09:11 | User: user5 | Action: Access Denied | Bandwidth: 334
+Timestamp: 2023-12-20 21:09:12 | User: user4 | Action: Access Granted | Bandwidth: 151
+Timestamp: 2023-12-20 21:09:13 | User: user1 | Action: Access Denied | Bandwidth: 703
+Timestamp: 2023-12-20 21:09:14 | User: user2 | Action: Access Granted | Bandwidth: 964
+Timestamp: 2023-12-20 21:09:15 | User: user4 | Action: Access Granted | Bandwidth: 334
+Timestamp: 2023-12-20 21:09:16 | User: user4 | Action: Access Denied | Bandwidth: 747
+Timestamp: 2023-12-20 21:09:17 | User: user4 | Action: Access Granted | Bandwidth: 586
+Timestamp: 2023-12-20 21:09:18 | User: user1 | Action: Access Denied | Bandwidth: 582
+Timestamp: 2023-12-20 21:09:19 | User: user5 | Action: Access Denied | Bandwidth: 753
+Timestamp: 2023-12-20 21:09:20 | User: user4 | Action: Access Denied | Bandwidth: 105
+Timestamp: 2023-12-20 21:09:21 | User: user2 | Action: Access Denied | Bandwidth: 430
+Timestamp: 2023-12-20 21:09:22 | User: user4 | Action: Access Granted | Bandwidth: 875
