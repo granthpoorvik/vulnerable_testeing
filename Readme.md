@@ -4,7 +4,7 @@ This Python script analyzes user vulnerability based on a log file of user activ
 
 ## How it Works
 
-### 2. Analyzing Vulnerability
+### 1. Analyzing Vulnerability
 The script uses regular expressions to extract user, action, and location information from each log entry. It counts the occurrences of "Blocked Site" actions for each user. The vulnerability of a user is determined based on a specified threshold (default is 2). Users with action counts equal to or greater than the threshold are considered vulnerable.
 ## 2. Blocking Users
 
